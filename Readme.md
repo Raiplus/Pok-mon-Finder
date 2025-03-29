@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pokémon Finder
 
 A simple web application to fetch and display Pokémon details using the [PokéAPI](https://pokeapi.co/).
